@@ -3,7 +3,7 @@
 A self-contained C++20 toolkit for the catalogue files produced by xahaud's
 `catalogue_create` RPC: **explore**, **verify**, **merge**, **split**,
 **look up** objects and transactions, **anchor** a whole set against the live
-network, and **fetch** the canonical set from <https://cat.xahau.network/>.
+network, and **fetch** the canonical set.
 It has a scriptable CLI and an XTree-Gold-style interactive browser.
 
 ```
